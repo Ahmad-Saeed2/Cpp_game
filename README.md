@@ -71,6 +71,10 @@ https://www.raylib.com
 
 ---
 
+Authors :
+Muhammad Ahmed Saeed 
+Muhammad Mutaal Khan
+
 ## ▶️ How to Run
 
 ### **Windows (Visual Studio project included)**  
@@ -132,6 +136,4 @@ sound & music streaming
 This game is for learning and personal use.
 Do not redistribute copyrighted Hollow Knight assets.
 
-Authors :
-Muhammad Ahmed Saeed 
-Muhammad Mutaal Khan
+
