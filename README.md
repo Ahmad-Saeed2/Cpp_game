@@ -71,10 +71,10 @@ https://www.raylib.com
 
 ---
 
-###Authors :
--Muhammad Ahmed Saeed 
+### Authors :
+- Muhammad Ahmed Saeed 
 
--Muhammad Mutaal Khan
+- Muhammad Mutaal Khan
 
 ## ▶️ How to Run
 
